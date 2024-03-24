@@ -9,9 +9,9 @@ on:
       - main  # Adjust branch name as needed
 
 env:
-  AZURE_CLIENT_ID: "your_client_id"
-  AZURE_TENANT_ID: "your_tenant_id"
-  AZURE_CLIENT_SECRET: "your_client_secret"
+  AZURE_CLIENT_ID: "85fcd693-7ed7-45d4-b754-6f9d67972229"
+  AZURE_TENANT_ID: "7baa4835-0dd6-4321-9180-6a270c0e6f38"
+  AZURE_CLIENT_SECRET: "qdS8Q~WJfemcgd3DUY4.NZlxffoD.pnIoG-OsbCc"
 
 jobs:
   deploy:
